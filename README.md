@@ -19,3 +19,5 @@
 
 Добавим блок-схему к заданию отдельным файлом .drawio
 Данный файл прикрепим в окно загрузки на сайт [GeekBrains](https://gb.ru/lessons/257235/homework)
+
+! [блок-схема](https://app.diagrams.net/)
